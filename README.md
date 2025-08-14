@@ -1,6 +1,6 @@
 <div align="center">
   <h1>✨ Hi, I'm Hacer Beyza Çömlekçi ✨</h1>
-  <p>A software developer from Konya 🚀</p>
+  <p>A junior developer from Konya 🚀</p>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
